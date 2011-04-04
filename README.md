@@ -26,6 +26,6 @@ Installation
 		
 6. Ambil jslint-bundle dari github
 		
-		git clone https://github.com/hendrasaputra/jslint-bundle.git
+		git clone https://github.com/hendrasaputra/jslint-bundle.git && mv jslint-bundle/JavaScript.tmbundle ./JavaScript.tmbundle
 		
 7. Reload Bundles on TextMate
